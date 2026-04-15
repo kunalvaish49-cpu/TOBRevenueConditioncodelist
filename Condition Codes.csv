@@ -1,0 +1,158 @@
+﻿CC Codes,Description of CC,Category
+D0,Changes to service dates (When  only changing the admission date Use condition code D9.),Medicare Condition Codes UB04
+D1,Use when changes to charges,Medicare Condition Codes UB04
+D2,"Use when changes to revenue codes, HCPCs / HIPPS rate code",Medicare Condition Codes UB04
+D3,Use when second or subsequent interim PPS bill,Medicare Condition Codes UB04
+D4,Use when changes in diagnosis or procedure code,Medicare Condition Codes UB04
+D5,Use when cancel to correct Medicare Beneficiary ID number or provider ID,Medicare Condition Codes UB04
+D6,Use when cancel only to repay a duplicate or OIG overpayment,Medicare Condition Codes UB04
+D7,Use change to make Medicare the secondary payer,Medicare Condition Codes UB04
+D8,Use when change to make Medicare the primary payer,Medicare Condition Codes UB04
+D9,Use for any other change,Medicare Condition Codes UB04
+E0,Use when change in patient status,Medicare Condition Codes UB04
+15,Clean claim delayed in CMS’ processing system. ,Assigned by Payer UB 04 Condition Codes
+16,Skilled Nursing Facility-SNF transition exemption . An exemption from the post-hospital requirement applies for this SNF stay or the qualifying stay dates are more than 30 days prior to the admission date.,Assigned by Payer UB 04 Condition Codes
+60,Operating cost day outlier. ,Assigned by Payer UB 04 Condition Codes
+61,Operating cost outlier which is not reported by provider. Pricer indicates this bill is a cost outlier and MAC indicates the operating cost outlier portion paid in value code 17.,Assigned by Payer UB 04 Condition Codes
+62,PIP bill not reported by providers. Bill was paid under PIP and recorded by system.,Assigned by Payer UB 04 Condition Codes
+63,Bypass CWF edit for incarcerated beneficiaries. Services rendered to a prisoner or a patient in State or local custody (meets requirements of 42 CFR 411.4(b) for payment). Contractor use only.,Assigned by Payer UB 04 Condition Codes
+64,Other than clean claim.,Assigned by Payer UB 04 Condition Codes
+65,Non-PPS bill not reported by providers. MAC records this from system for non-PPS hospital bills.,Assigned by Payer UB 04 Condition Codes
+EY,"Lung reduction study demonstration claims, set demo code 30.",Assigned by Payer UB 04 Condition Codes
+M0,All-inclusive rate for outpatient services.,Assigned by Payer UB 04 Condition Codes
+M1,Roster billed influenza virus vaccine or pneumococcal pneumonia vaccine (PPV).,Assigned by Payer UB 04 Condition Codes
+M3,SNF 3 day stay bypass for NG/Pioneer ACD waiver.,Assigned by Payer UB 04 Condition Codes
+MA,Gastroenteritis (GI) bleed (acute comorbid).,Assigned by Payer UB 04 Condition Codes
+MB,Pneumonia (acute comorbid).,Assigned by Payer UB 04 Condition Codes
+MC,Pericarditis (acute comorbid).,Assigned by Payer UB 04 Condition Codes
+MD,Myelodysplastic syndrome (chronic comorbid).,Assigned by Payer UB 04 Condition Codes
+ME,Hereditary hemolytic and sickle cell anemia (chronic comorbid).,Assigned by Payer UB 04 Condition Codes
+MF,Monoclonal gammopathy (chronic comorbid).,Assigned by Payer UB 04 Condition Codes
+MG,Grandfathered Tribal Federally Qualified Health Centers.,Assigned by Payer UB 04 Condition Codes
+MZ,IOCE error code bypass.,Assigned by Payer UB 04 Condition Codes
+1,Military service related; coordinate with the Department of Veterans Affairs (VA). ,Beneficiary or Spouse Insurance and Identifiers
+2,"Patient alleges the medical condition or injury causing this episode of care is due to the employment environment or events (e.g., workers’ compensation, black lung).",Beneficiary or Spouse Insurance and Identifiers
+3,Patient is covered by an insurance not reflected here.,Beneficiary or Spouse Insurance and Identifiers
+4,Bill is submitted for informational purposes only.,Beneficiary or Spouse Insurance and Identifiers
+5,Lien has been filed. The provider has filed legal claim for recovery of funds potentially due to a patient as a result of legal action initiated by or on behalf of a patient.,Beneficiary or Spouse Insurance and Identifiers
+7,"Treatment of a non-terminal condition for a hospice patient. Report this code when the patient has elected hospice care, but the provider is not treating the patient for the terminal condition.",Beneficiary or Spouse Insurance and Identifiers
+8,Beneficiary would not provide information concerning other insurance coverage. The MAC develops to determine proper payment.,Beneficiary or Spouse Insurance and Identifiers
+9,Neither the patient nor the spouse is employed.,Beneficiary or Spouse Insurance and Identifiers
+10,Patient and/or spouse is employed but no Employee Group Health Plan (EGHP) coverage exists.,Beneficiary or Spouse Insurance and Identifiers
+11,Disabled beneficiary but no Large Group Health Plan (LGHP).,Beneficiary or Spouse Insurance and Identifiers
+17,Patient is homeless.,Beneficiary or Spouse Insurance and Identifiers
+18,Maiden name retained.,Beneficiary or Spouse Insurance and Identifiers
+19,Child retains mother’s maiden name.,Beneficiary or Spouse Insurance and Identifiers
+21,"Billing for denial notice. Provider determined services are at a non-covered level or excluded, but it is requesting a denial notice from Medicare in order to bill Medicaid or other insurers.",Beneficiary or Spouse Insurance and Identifiers
+22,Patient on Multiple Drug Regimen,Beneficiary or Spouse Insurance and Identifiers
+23,Home Care Giver Available,Beneficiary or Spouse Insurance and Identifiers
+24,Home IV Patient Also Receiving HHA Services,Beneficiary or Spouse Insurance and Identifiers
+25,Patient Is a Non-U.S. Resident,Beneficiary or Spouse Insurance and Identifiers
+26,Veteran’s Administration (VA) eligible patient chooses to receive services in a Medicare Certified Facility.,Beneficiary or Spouse Insurance and Identifiers
+28,"Patient’s and/or spouse’s EGHP is secondary to Medicare. In response to the Medicare Secondary Payer (MSP) questionnaire, the patient and/or spouse indicated that one or both are employed and that there is group health insurance from an EGHP or other employer-sponsored or provided health insurance that covers the patient but that either: the EGHP is a single employer plan and the employer has fewer than 20 full and part time employees; or the EGHP is a multiple employer plan that elects to pay secondary to Medicare for employees and spouses aged 65 and older for those participating employers who have fewer than 20 employees.",Beneficiary or Spouse Insurance and Identifiers
+29,"Disabled beneficiary and/or family member’s LGHP is secondary to Medicare. In response to the Medicare Secondary Payer (MSP) questionnaire, the patient and/or family member(s) indicated that one or more are employed and there is group health insurance from an LGHP or other employer-sponsored or provided health insurance that covers the patient but that either: the LGHP is a single employer plan and the employer has fewer than 100 full and part time employees; or the LGHP is a multiple employer plan and that all employers participating in the plan have fewer than 100 full and part-time employees.",Beneficiary or Spouse Insurance and Identifiers
+31,Patient is a student (full time day).,Beneficiary or Spouse Insurance and Identifiers
+32,Patient is a student (cooperative/work study program).,Beneficiary or Spouse Insurance and Identifiers
+33,Patient is a student (full-time night).,Beneficiary or Spouse Insurance and Identifiers
+34,Patient is student (part-time).,Beneficiary or Spouse Insurance and Identifiers
+45,Ambiguous gender category.,Beneficiary or Spouse Insurance and Identifiers
+46,Nonavailability statement on file.,Beneficiary or Spouse Insurance and Identifiers
+48,"Identifies claims submitted by a TRICARE-authorized psychiatric RTC for children and adolescents. This code is not required for Medicare billing. However, it is required for TRICARE billing, when applicable. Medicare will accept this condition code to comply with HIPAA transaction code set requirements.",Beneficiary or Spouse Insurance and Identifiers
+52,"Hospice beneficiary moves out of service area, including patients admitted to a hospital that does not have contractual arrangements with the hospice.",Beneficiary or Spouse Insurance and Identifiers
+67,Beneficiary elects not to use Lifetime Reserve (LTR) days.,Beneficiary or Spouse Insurance and Identifiers
+68,Beneficiary elects to use LTR days.,Beneficiary or Spouse Insurance and Identifiers
+77,Provider accepts or is obligated/required due to contractual arrangement or law to accept payment by a primary payer as payment in full,Beneficiary or Spouse Insurance and Identifiers
+78,"Newly covered Medicare service for which an HMO doesn’t pay. For outpatient bills, condition code 04 should be omitted.",Beneficiary or Spouse Insurance and Identifiers
+H0,"Delayed filing, statement of intent submitted within the qualified period to specifically identify the existence of another third party liability situation.",Beneficiary or Spouse Insurance and Identifiers
+6,End Stage Renal Disease (ESRD) patient in the first 30 months of entitlement covered by employer group health insurance. Medicare may be a secondary insurer if the patient is also covered by an employer group health insurance during the patient’s first 30 months of ESRD entitlement.,End-Stage Renal Disease and Dialysis- ESRD Condition Codes
+59,Non-primary ESRD facility. Provider reports this code to indicate the ESRD beneficiary received non-scheduled or emergency dialysis services at a facility other than his/her primary ESRD dialysis facility.,End-Stage Renal Disease and Dialysis- ESRD Condition Codes
+70,Self-administered erythropoetin alpha (EPO). Code indicates the billing is for a home dialysis patient who self-administers EPO or darbopoetin alpha.,End-Stage Renal Disease and Dialysis- ESRD Condition Codes
+71,Full care in unit. The billing is for a patient who received staff-assisted dialysis services in a hospital or renal dialysis facility.,End-Stage Renal Disease and Dialysis- ESRD Condition Codes
+72,Self-Care in unit. The billing is for a patient who managed his/her own dialysis services without staff assistance in a hospital or renal dialysis facility.,End-Stage Renal Disease and Dialysis- ESRD Condition Codes
+73,Self-Care training. The bill is for special dialysis services where a patient and his/her helper (if necessary) were learning to perform dialysis.,End-Stage Renal Disease and Dialysis- ESRD Condition Codes
+74,Billing is for a patient who received dialysis services at home.,End-Stage Renal Disease and Dialysis- ESRD Condition Codes
+75,Billing is for a patient who received dialysis services at home using a dialysis machine that was purchased under the 100 percent payment program.,End-Stage Renal Disease and Dialysis- ESRD Condition Codes
+76,Back-up dialysis in-facility The bill is for a home dialysis patient who received back-up dialysis in a facility.,End-Stage Renal Disease and Dialysis- ESRD Condition Codes
+80,Patient receives dialysis services at home and the patient’s home is a nursing facility.,End-Stage Renal Disease and Dialysis- ESRD Condition Codes
+84,Dialysis for Acute Kidney Injury (AKI) on monthly basis,End-Stage Renal Disease and Dialysis- ESRD Condition Codes
+87,ESRD self care retraining,End-Stage Renal Disease and Dialysis- ESRD Condition Codes
+27,Patient referred to a sole community hospital for a diagnostic laboratory test. (Sole Community Hospitals only). The provider uses this code to indicate laboratory service is paid at 62 percent fee schedule rather than 60 percent fee schedule.,"Hospitalization, Products and Services Condition Codes List"
+30,"Non-research services provided to all patients, including managed care enrollees, enrolled in a Qualified Clinical Trial.","Hospitalization, Products and Services Condition Codes List"
+40,Same day transfer. The patient was transferred to another participating Medicare provider before midnight on the day of admission.,"Hospitalization, Products and Services Condition Codes List"
+41,Claim is for partial outpatient hospitalization services which include a variety of psychiatric programs.,"Hospitalization, Products and Services Condition Codes List"
+42,Continued care plan is not related to the patient’s inpatient admission condition or diagnosis.,"Hospitalization, Products and Services Condition Codes List"
+43,Continued care not provided within post discharge window,"Hospitalization, Products and Services Condition Codes List"
+44,"Inpatient admission changed to outpatient. –Code used on outpatient claims only, when the physician ordered inpatient services, but upon internal utilization review performed before the claim was originally submitted, the hospital determined that the services did not meet its inpatient criteria. The change in patient status from inpatient to outpatient is made prior to discharge or release while the patient is still a patient of the hospital.","Hospitalization, Products and Services Condition Codes List"
+49,Product lifecycle replacement of a product earlier than the anticipated lifecycle due to an indication that the product is not functioning properly.,"Hospitalization, Products and Services Condition Codes List"
+50,Product replacement for known recall by a Product Manufacturer or FDA.,"Hospitalization, Products and Services Condition Codes List"
+51,Provider attestation of that services billed are unrelated outpatient non-diagnostic services which should not be bundled into the inpatient hospital claim.,"Hospitalization, Products and Services Condition Codes List"
+53,The initial placement of a medical device provided as part of a clinical trial or a free sample.,"Hospitalization, Products and Services Condition Codes List"
+69,Indirect Medical Education (IME)/Direct Graduate Medical Education (DGME)/Nursing and Allied Health (N&AH) payment only billing.,"Hospitalization, Products and Services Condition Codes List"
+79,"Comprehensive Outpatient Rehabilitation Facilities (CORF) services provided off-site. Physical therapy, occupational therapy, or speech pathology services were provided offsite.","Hospitalization, Products and Services Condition Codes List"
+98,Data associated with diagnosis-related grouper (DRG) 468 has been validated.,"Hospitalization, Products and Services Condition Codes List"
+B4,Admission unrelated to discharge on same day,"Hospitalization, Products and Services Condition Codes List"
+G0,Distinct medical visit. Multiple medical visits/evaluation and management visits occurred on the same day in the same revenue center and the visits were distinct and constituted independent visits. Not reported by CAHs.,"Hospitalization, Products and Services Condition Codes List"
+20,"Beneficiary requested billing. Provider determined services are part of a non-covered level of care or excluded, but beneficiary requests determination by payer. (Limited to home health and inpatient SNF claims.)",Condition codes for SNF Services
+55,SNF bed is not available. Patient’s SNF admission was delayed more than 30 days after hospital discharge because a SNF bed was not available.,Condition codes for SNF Services
+56,Medical appropriateness condition code. Patient’s SNF admission was delayed more than the 30 days after hospital discharge as patient’s condition made it inappropriate to begin active care within that period.,Condition codes for SNF Services
+57,SNF readmission when patient previously received Medicare covered  SNF care within 30 days of current SNF admission.,Condition codes for SNF Services
+58,SNF patient terminated MA Plan enrollment. Providers report this code to waive 3-day qualifying stay requirement.,Condition codes for SNF Services
+36,General care patient in a special unit. – (Not used by Prospective Payment System (PPS) hospitals) The hospital temporarily placed the patient in a special care unit because no general care beds were available. Accommodation charges for this period are at the prevalent semi-private rate.,Rooms/Beds UB 04 Condition Codes List
+37,Ward accommodation at patient’s request – Not used by PPS Hospitals.,Rooms/Beds UB 04 Condition Codes List
+38,Semi-private room is not available. Not used by PPS Hospitals.,Rooms/Beds UB 04 Condition Codes List
+39,Private room medically necessary. Not used by PPS Hospitals.,Rooms/Beds UB 04 Condition Codes List
+90,Service provided as part of an Expanded Access approval.,Condition Codes for Special Programs
+91,Service provided as part of an Emergency Use Authorization.,Condition Codes for Special Programs
+A0,This code identifies TRICARE claims submitted under the external partnership program.,Condition Codes for Special Programs
+A1,This code is to be used for services related to early and periodic screening diagnosis and treatment.,Condition Codes for Special Programs
+A2,Services provided under a program that receives special funding for the handicapped through title VII of the Social Security Act or TRICARE.,Condition Codes for Special Programs
+A3,Special federal funding.,Condition Codes for Special Programs
+A4,Family planning.,Condition Codes for Special Programs
+A5,Disability,Condition Codes for Special Programs
+A6,Pneumococcal pneumonia and influenza vaccines paid at 100%.,Condition Codes for Special Programs
+A9,Second opinion for surgery.,Condition Codes for Special Programs
+AJ,Payer responsible for co-payment.,Condition Codes for Special Programs
+AN,Preadmission screening not required.,Condition Codes for Special Programs
+B0,Medicare Coordinated Care Demonstration Program (MCCD).,Condition Codes for Special Programs
+B1,Beneficiary is ineligible for Full Demonstration Program.,Condition Codes for Special Programs
+W0,United Mine Workers of America demonstration indicator,Condition Codes for Special Programs
+AK,Air ambulance required.,UB 04 Condition Codes List for Transport Services
+AL,Specialized treatment/bed unavailable.,UB 04 Condition Codes List for Transport Services
+AM,Non-emergency medically necessary stretcher transport required.,UB 04 Condition Codes List for Transport Services
+B2,Critical Access Hospital ambulance attestation that it meets criteria for exemption from ambulance fee schedule.,UB 04 Condition Codes List for Transport Services
+81,C-sections or inductions performed at less than 39 weeks gestation for medical necessity.,Pregnancy Related UB 04 Condition Codes
+82,C-sections or inductions performed at less than 39 weeks gestation electively.,Pregnancy Related UB 04 Condition Codes
+83,C-sections or inductions performed at 39 weeks gestation or greater.,Pregnancy Related UB 04 Condition Codes
+AA,Abortion performed due to rape.,Pregnancy Related UB 04 Condition Codes
+AB,Abortion performed due to incest.,Pregnancy Related UB 04 Condition Codes
+AC,"Abortion performed due to serious fetal genetic defect, deformity, abnormality0",Pregnancy Related UB 04 Condition Codes
+AD,"Abortion performed due to life endangering physical condition caused by, arising from or exacerbated by the pregnancy itself.",Pregnancy Related UB 04 Condition Codes
+AE,Abortion performed due to physical health of mother that is not life endangering.,Pregnancy Related UB 04 Condition Codes
+AF,Abortion performed due to emotional/psychological health of mother.,Pregnancy Related UB 04 Condition Codes
+AG,Abortion performed due to social economic reasons.,Pregnancy Related UB 04 Condition Codes
+AH,Elective abortion.,Pregnancy Related UB 04 Condition Codes
+AI,Sterilization.,Pregnancy Related UB 04 Condition Codes
+B3,Pregnancy indicator.,Pregnancy Related UB 04 Condition Codes
+R1,This condition code is used when mathematical or computational mistakes happen,Claim Reopening Reason Condition Codes
+R2,"R2 CC is used when a claim is submitted with an incorrect info provider number, referring to NPI, DOS, CPT code, etc.",Claim Reopening Reason Condition Codes
+R3,When misapplication of a fee schedule we used R3 CC.,Claim Reopening Reason Condition Codes
+R4,For Computer errors used R4 CC.,Claim Reopening Reason Condition Codes
+R5,R5 CC when duplicate claim denied and the party believes were incorrectly identified as duplicate.,Claim Reopening Reason Condition Codes
+R6,R6 CC for other clerical or typo errors and omissions which not specified in R1-R5.,Claim Reopening Reason Condition Codes
+R7,R7 CC is used when claim correction is required other than clerical errors within one year of the date of the initial determination.,Claim Reopening Reason Condition Codes
+R8,A claim reopening for good cause (1-4 years from the date of the initial determination) due to new and material proof that was not available or known at the time of the determination.,Claim Reopening Reason Condition Codes
+R9,A claim reopening for good cause (1-4 years from the date of initial determination) because the evidence that was considered in making the determination shows that an obvious error was made at the time of the determination initially.,Claim Reopening Reason Condition Codes
+H3,Reoccurrence of GI bleed.,Comorbid Reoccurrence Condition Codes
+H4,Reoccurrence of Pneumonia,Comorbid Reoccurrence Condition Codes
+H5,Reoccurrence of pericarditis.,Comorbid Reoccurrence Condition Codes
+BP,Gulf Oil Spill of 2010,Disaster Related Condition Codes
+DR,Disaster Related,Disaster Related Condition Codes
+P1,P1 CC is used only when reporting public health data required by the state and should not be used for third-party billing purposes,Public Health Reporting Condition Codes
+P7,P7 code was created to indicate a direct inpatient admission (IP) from the emergency room for public health reporting purposes. This code is only used when reporting public health data required by the state.,Public Health Reporting Condition Codes
+C1,If C1 CC used means approved as billed,Quality Improvement Organization (QIO) Condition codes
+C2,C2 CC is used when automatic approval as billed based on a focused review,Quality Improvement Organization (QIO) Condition codes
+C3,C3 CC means partial approval,Quality Improvement Organization (QIO) Condition codes
+C4,C4 CC is used when Admission is denied.,Quality Improvement Organization (QIO) Condition codes
+C5,C5 CC is used when the post-payment review is applicable,Quality Improvement Organization (QIO) Condition codes
+C6,C6 CC was used when pre-admission/pre-procedure was authorized but QIO has not reviewed the services provided.,Quality Improvement Organization (QIO) Condition codes
+C7,C7 CC is used when Extended authorization is authorized but QIO has not reviewed the services provided,Quality Improvement Organization (QIO) Condition codes
