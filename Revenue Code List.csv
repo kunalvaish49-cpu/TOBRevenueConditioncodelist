@@ -1,0 +1,416 @@
+﻿Revenue Codes 2025,Revenue Code Description,Type Of Care
+240,"All inclusive ancillary, general",Intravenous (IV) Therapy
+260,Intravenous (IV) therapy,Intravenous (IV) Therapy
+261,"Intravenous (IV) therapy, infusion pump",Intravenous (IV) Therapy
+262,"Intravenous (IV) therapy, pharmacy services",Intravenous (IV) Therapy
+263,"Intravenous (IV) therapeutic drug, supply and delivery",Intravenous (IV) Therapy
+264,"Intravenous (IV) therapy, supplies",Intravenous (IV) Therapy
+269,"Intravenous (IV) therapy,",Intravenous (IV) Therapy
+274,"Medical/surgical supplies and devices,prosthetic and orthotic","Medical/Surgical Supplies, Prosthetic and Orthotic"
+280,Oncology,Oncology
+290,"Durable medical equipment, general",Durable Medical Equipment (DME)
+291,"Durable medical equipment, rental",Durable Medical Equipment (DME)
+292,"Durable medical equipment, purchase of new",Durable Medical Equipment (DME)
+294,"Durable medical equipment, supplies and drugs",Durable Medical Equipment (DME)
+299,"Durable medical equipment,",Durable Medical Equipment (DME)
+300,"Laboratory, general classification",Laboratory Services
+301,"Laboratory, chemistry",Laboratory Services
+302,"Laboratory, immunology",Laboratory Services
+303,"Laboratory, renal patient",Laboratory Services
+304,"Laboratory, dialysis",Laboratory Services
+305,"Laboratory, hematology",Laboratory Services
+306,"Laboratory, bacteriology and microbiology",Laboratory Services
+307,"Laboratory, urology",Laboratory Services
+308,Reserved laboratory,Laboratory Services
+309,"Laboratory,",Laboratory Services
+310,"Laboratory, pathology general classification",Laboratory Services
+311,Laboratory pathology cytology,Laboratory Services
+312,Laboratory pathology histology,Laboratory Services
+313,Reserved laboratory pathology,Laboratory Services
+314,"Laboratory, pathology biopsy",Laboratory Services
+315,"Reserved laboratory, pathology",Laboratory Services
+316,"Reserved laboratory, pathology",Laboratory Services
+317,"Reserved laboratory, pathology",Laboratory Services
+318,"Reserved laboratory, pathology",Laboratory Services
+319,"Laboratory, pathology",Laboratory Services
+320,"Radiology, diagnostic general classification",Diagnostic Radiology
+321,"Radiology, diagnostic angiocardiology",Diagnostic Radiology
+322,"Radiology, diagnostic arthrography",Diagnostic Radiology
+323,"Radiology, diagnostic arteriography",Diagnostic Radiology
+324,"Radiology, diagnostic chest X-ray",Diagnostic Radiology
+325,"Reserved radiology, diagnostic",Diagnostic Radiology
+326,"Reserved radiology, diagnostic",Diagnostic Radiology
+327,"Reserved radiology, diagnostic",Diagnostic Radiology
+328,"Reserved radiology, diagnostic",Diagnostic Radiology
+329,"Radiology, diagnostic",Diagnostic Radiology
+330,"Radiology, therapeutic chemapy general classification",Therapeutic Radiology / Chemotherapy
+331,"Radiology, therapeutic chemapy, chemapy administration – injected",Therapeutic Radiology / Chemotherapy
+332,"Radiology, therapeutic chemapy, chemapy and administration – oral",Therapeutic Radiology / Chemotherapy
+333,"Radiology, therapeutic chemapy, radiation therapy",Therapeutic Radiology / Chemotherapy
+334,"Reserved radiology, therapeutic chemapy",Therapeutic Radiology / Chemotherapy
+335,"Radiology, therapeutic chemapy, administration (intravenous (IV))",Therapeutic Radiology / Chemotherapy
+336,"Reserved radiology, therapeutic chemapy",Therapeutic Radiology / Chemotherapy
+337,"Reserved radiology, therapeutic chemapy",Therapeutic Radiology / Chemotherapy
+338,"Reserved radiology, therapeutic chemapy",Therapeutic Radiology / Chemotherapy
+339,"Radiology, therapeutic chemapy",Therapeutic Radiology / Chemotherapy
+340,"Nuclear medicine, general classification",Nuclear Medicine
+341,"Nuclear medicine, diagnostic",Nuclear Medicine
+342,"Nuclear medicine, therapeutic",Nuclear Medicine
+343,"Nuclear medicine, diagnostic radiopharmaceuticals",Nuclear Medicine
+344,"Nuclear medicine, therapeutic radiopharmaceuticals",Nuclear Medicine
+349,"Nuclear medicine,",Nuclear Medicine
+350,"Computerized axial tomography (CAT) scan, general",CT / CAT Scan
+351,"Computerized axial tomography (CAT) scan, head scan",CT / CAT Scan
+352,"Computerized axial tomography (CAT) scan, body scan",CT / CAT Scan
+353,Reserved computerized axial tomography scan (CAT),CT / CAT Scan
+354,Reserved computerized axial tomography scan (CAT),CT / CAT Scan
+355,Reserved computerized axial tomography scan (CAT),CT / CAT Scan
+356,Reserved computerized axial tomography scan (CAT),CT / CAT Scan
+357,Reserved computerized axial tomography scan (CAT),CT / CAT Scan
+358,Reserved computerized axial tomography scan (CAT),CT / CAT Scan
+359,Computerized axial tomography scan (CAT),CT / CAT Scan
+360,"Operating room services, general",Operating Room Services
+361,"Operating room services, minor surgery",Operating Room Services
+362,"Operating services, organ transplant than kidney",Operating Room Services
+363,Reserved operating room services,Operating Room Services
+364,Reserved operating room services,Operating Room Services
+365,Reserved operating room services,Operating Room Services
+366,Reserved operating room services,Operating Room Services
+367,"Operating room services, kidney transplant",Operating Room Services
+368,Reserved operating room services,Operating Room Services
+369,Operating room services,Operating Room Services
+380,"Blood and blood products, general",Blood and Blood Products
+381,"Blood and blood products, packed red cells",Blood and Blood Products
+382,"Blood and blood products, whole blood products",Blood and Blood Products
+383,"Blood and blood products, plasma",Blood and Blood Products
+384,"Blood and blood products, platelets",Blood and Blood Products
+385,"Blood and blood products, leukocytes",Blood and Blood Products
+386,"Blood and blood products, components",Blood and Blood Products
+387,"Blood and blood products, derivatives (cryoprecipitate)",Blood and Blood Products
+388,"Blood and blood products, reserved components",Blood and Blood Products
+389,"Blood and blood products,",Blood and Blood Products
+390,"Blood administration process, storage general",Blood Administration / Storage
+391,"Blood administration process, storage administration",Blood Administration / Storage
+399,"Blood, storage",Blood Administration / Storage
+400,"Imaging services, general",Imaging Services
+401,"Imaging services, diagnostic mammography",Imaging Services
+402,"Imaging services, ultrasound",Imaging Services
+403,"Imaging services, screening mammography",Imaging Services
+404,"Imaging services, positron emission tomography",Imaging Services
+405,Reserved imaging services,Imaging Services
+406,Reserved imaging services,Imaging Services
+407,Reserved imaging services,Imaging Services
+408,Reserved imaging services,Imaging Services
+409,"Imaging services,",Imaging Services
+410,"Respiratory services, general",Respiratory Services
+411,Reserved respiratory services,Respiratory Services
+412,"Respiratory services, inhalation",Respiratory Services
+413,"Respiratory services, hyperbaric oxygen therapy",Respiratory Services
+414,Reserved respiratory services,Respiratory Services
+415,Reserved respiratory services,Respiratory Services
+416,Reserved respiratory services,Respiratory Services
+417,Reserved respiratory services,Respiratory Services
+418,Reserved respiratory services,Respiratory Services
+419,"Respiratory services,",Respiratory Services
+420,"Physical therapy, general",Physical Therapy
+421,"Physical therapy, visit",Physical Therapy
+422,"Physical therapy, hourly",Physical Therapy
+423,"Physical therapy, group",Physical Therapy
+424,"Physical therapy, evaluation or reevaluation",Physical Therapy
+425,Reserved physical therapy,Physical Therapy
+426,Reserved physical therapy,Physical Therapy
+427,Reserved physical therapy,Physical Therapy
+428,Reserved physical therapy,Physical Therapy
+429,"Physical therapy,",Physical Therapy
+430,"Occupational therapy, general",Occupational Therapy
+431,"Occupational therapy, visit",Occupational Therapy
+432,"Occupational therapy, hourly",Occupational Therapy
+433,"Occupational therapy, group",Occupational Therapy
+434,"Occupational therapy, evaluation or reevaluation",Occupational Therapy
+435,Reserved occupational therapy,Occupational Therapy
+436,Reserved occupational therapy,Occupational Therapy
+437,Reserved occupational therapy,Occupational Therapy
+438,Reserved occupational therapy,Occupational Therapy
+439,"Occupational therapy,",Occupational Therapy
+440,"Speech therapy, general",Speech Therapy
+441,"Speech therapy, visit",Speech Therapy
+442,"Speech therapy, hourly",Speech Therapy
+443,"Speech therapy, group",Speech Therapy
+444,"Speech therapy, evaluation or reevaluation",Speech Therapy
+445,Reserved speech therapy,Speech Therapy
+446,Reserved speech therapy,Speech Therapy
+447,Reserved speech therapy,Speech Therapy
+448,Reserved speech therapy,Speech Therapy
+449,"Speech therapy,",Speech Therapy
+450,"Emergency room, general",Emergency Room
+451,"Emergency room, EMTALA emergency and medical",Emergency Room
+452,"Emergency room, beyond EMTALA screening",Emergency Room
+453,Reserved emergency room,Emergency Room
+454,Reserved emergency room,Emergency Room
+455,Reserved emergency room,Emergency Room
+456,"Emergency room, urgent care",Emergency Room
+457,Reserved emergency room,Emergency Room
+458,Reserved emergency room,Emergency Room
+459,"Emergency room,",Emergency Room
+460,"Pulmonary function, general",Pulmonary Function
+461,Reserved pulmonary function,Pulmonary Function
+462,Reserved pulmonary function,Pulmonary Function
+463,Reserved pulmonary function,Pulmonary Function
+464,Reserved pulmonary function,Pulmonary Function
+465,Reserved pulmonary function,Pulmonary Function
+466,Reserved pulmonary function,Pulmonary Function
+467,Reserved pulmonary function,Pulmonary Function
+468,Reserved pulmonary function,Pulmonary Function
+469,"Pulmonary function,",Pulmonary Function
+470,"Audiology, general",Audiology
+471,"Audiology, diagnostic",Audiology
+472,"Audiology, treatment",Audiology
+473,Reserved audiology,Audiology
+474,Reserved audiology,Audiology
+475,Reserved audiology,Audiology
+476,Reserved audiology,Audiology
+477,Reserved audiology,Audiology
+478,Reserved audiology,Audiology
+479,"Audiology,",Audiology
+480,"Cardiology, general",Cardiology
+481,"Cardiology, cardiac catheterization laboratory",Cardiology
+482,"Cardiology, stress test",Cardiology
+483,"Cardiology, echocardiology",Cardiology
+484,Reserved cardiology,Cardiology
+485,Reserved cardiology,Cardiology
+486,Reserved cardiology,Cardiology
+487,Reserved cardiology,Cardiology
+488,Reserved cardiology,Cardiology
+489,"Cardiology,",Cardiology
+490,Ambulatory surgery,Ambulatory Surgery
+499,Ambulatory surgery,Ambulatory Surgery
+500,Outpatient services,Outpatient Services
+510,Clinic,Clinic Services
+511,"Clinic, chronic pain center",Clinic Services
+512,"Clinic, dental",Clinic Services
+513,"Clinic, psychiatric",Clinic Services
+514,"Clinic, obstetrics/gynecology (OB/GYN)",Clinic Services
+515,"Clinic, pediatric",Clinic Services
+516,"Clinic, urgent care",Clinic Services
+517,"Clinic, family practice",Clinic Services
+518,Reserved clinic,Clinic Services
+519,Clinic,Clinic Services
+521,Rural clinic,Rural clinic
+526,Urgent care clinic,Urgent care clinic
+530,"Osteopathic services, general",Osteopathic Services
+531,"Osteopathic services, therapy",Osteopathic Services
+532,Reserved osteopathic services,Osteopathic Services
+533,Reserved osteopathic services,Osteopathic Services
+534,Reserved osteopathic services,Osteopathic Services
+535,Reserved osteopathic services,Osteopathic Services
+536,Reserved osteopathic services,Osteopathic Services
+537,Reserved osteopathic services,Osteopathic Services
+538,Reserved osteopathic services,Osteopathic Services
+539,"Osteopathic services,",Osteopathic Services
+540,"Ambulance, general",Ambulance
+541,"Ambulance, supplies",Ambulance
+542,"Ambulance, medical transport",Ambulance
+543,"Ambulance, heart mobile",Ambulance
+544,"Ambulance, oxygen",Ambulance
+545,"Ambulance, air",Ambulance
+546,"Ambulance, neonatal services",Ambulance
+547,"Ambulance, pharmacy",Ambulance
+548,"Ambulance, electrocardiogram (EKG) transmission",Ambulance
+549,Ambulance,Ambulance
+550,Skilled nursing,Skilled Nursing
+551,"Skilled nursing, visit",Skilled Nursing
+561,"Home health medical, social services, general",Home Health Medical Social Services
+571,Aide/home health visit,Aide / Home Health Visit
+601,"Home health, oxygen, general",Home Health Oxygen
+610,"Magnetic resonance technology, general",MRI Services
+611,"Magnetic resonance technology, brain/brain stem",MRI Services
+612,"Magnetic resonance technology, spinal cord/spine",MRI Services
+613,Magnetic resonance technology reserved,MRI Services
+614,"Magnetic resonance technology, magnetic resonance imaging (MRI)",MRI Services
+615,"Magnetic resonance technology, head and neck",MRI Services
+616,"Magnetic resonance technology, lower extremities",MRI Services
+617,Magnetic resonance technology reserved,MRI Services
+618,"Magnetic resonance technology,",MRI Services
+619,"Magnetic resonance technology,",MRI Services
+621,"Medical surgical supplies incidentals, radiology",Medical/Surgical Supplies and FDA Devices
+622,Medical surgical supplies incidental to diagnostic services,Medical/Surgical Supplies and FDA Devices
+624,U.S. Food and Drug Administration (FDA) investigational devices,Medical/Surgical Supplies and FDA Devices
+631,"Drug, single",Pharmacy / Drugs
+632,"Drug, multi",Pharmacy / Drugs
+634,"Pharmacy, extension of 025X erythropoietin (EPO) less than 10,000 units",Pharmacy / Drugs
+635,"Pharmacy extension of 025X erythropoietin (EPO) 10,000 or more units",Pharmacy / Drugs
+636,Pharmacy 025x extension drugs requiring detailed coding,Pharmacy / Drugs
+650,Hospice,Hospice Care
+651,"Hospice, routine home care",Hospice Care
+652,"Hospice, continuous home care",Hospice Care
+656,"Hospice, general inpatient care (non-respite)",Hospice Care
+722,"Labor room delivery, delivery room",Labor Room / Delivery
+723,"Labor room delivery, circumcision",Labor Room / Delivery
+724,Labor room delivery birthing center,Labor Room / Delivery
+729,"Labor room delivery,",Labor Room / Delivery
+730,"Electrocardiogram (EKG), electroencephalogram (EEG)",EKG / EEG
+731,"Electrocardiogram (EKG), electroencephalogram (EEG), Holter monitor",EKG / EEG
+732,Telemetry,EKG / EEG
+739,"Electrocardiogram (EKG), electroencephalogram (EEG),",EKG / EEG
+740,"Electroencephalogram (EEG), general",EEG Services
+741,Reserved electroencephalogram (EEG),EEG Services
+742,Reserved electroencephalogram (EEG),EEG Services
+743,Reserved electroencephalogram (EEG),EEG Services
+744,Reserved electroencephalogram (EEG),EEG Services
+745,Reserved electroencephalogram (EEG),EEG Services
+746,Reserved electroencephalogram (EEG),EEG Services
+747,Reserved electroencephalogram (EEG),EEG Services
+748,Reserved electroencephalogram (EEG),EEG Services
+749,Reserved electroencephalogram (EEG),EEG Services
+750,Gastrointestinal (GI) services general,Gastrointestinal (GI) Services
+751,Reserved gastrointestinal (GI) services,Gastrointestinal (GI) Services
+752,Reserved gastrointestinal (GI) services,Gastrointestinal (GI) Services
+753,Reserved gastrointestinal (GI) services,Gastrointestinal (GI) Services
+754,Reserved gastrointestinal (GI) services,Gastrointestinal (GI) Services
+755,Reserved gastrointestinal (GI) services,Gastrointestinal (GI) Services
+756,Reserved gastrointestinal (GI) services,Gastrointestinal (GI) Services
+757,Reserved gastrointestinal (GI) services,Gastrointestinal (GI) Services
+758,Reserved gastrointestinal (GI) services,Gastrointestinal (GI) Services
+759,Reserved gastrointestinal (GI) services,Gastrointestinal (GI) Services
+760,"Specialty room, general",Specialty Room
+761,"Specialty room, treatment room",Specialty Room
+769,"Specialty room, rooms",Specialty Room
+770,"Preventive care services, general",Specialty Room
+771,"Preventive care services, vaccine administration",Specialty Room
+772,Reserved preventive care services,Specialty Room
+773,Reserved preventive care services,Specialty Room
+774,Reserved preventive care services,Specialty Room
+775,Reserved preventive care services,Specialty Room
+776,Reserved preventive care services,Specialty Room
+777,Reserved preventive care services,Specialty Room
+778,Reserved preventive care services,Specialty Room
+779,Reserved preventive care services,Specialty Room
+780,"Telemedicine, general",Telemedicine
+781,Reserved telemedicine,Telemedicine
+782,Reserved telemedicine,Telemedicine
+783,Reserved telemedicine,Telemedicine
+784,Reserved telemedicine,Telemedicine
+785,Reserved telemedicine,Telemedicine
+786,Reserved telemedicine,Telemedicine
+787,Reserved telemedicine,Telemedicine
+788,Reserved telemedicine,Telemedicine
+789,Reserved telemedicine,Telemedicine
+790,"Extra-corporeal shock wave therapy, general",Extra-Corporeal Shock Wave Therapy
+791,Reserved extra-corporeal shock wave therapy,Extra-Corporeal Shock Wave Therapy
+792,Reserved extra-corporeal shock wave therapy,Extra-Corporeal Shock Wave Therapy
+793,Reserved extra-corporeal shock wave therapy,Extra-Corporeal Shock Wave Therapy
+794,Reserved extra-corporeal shock wave therapy,Extra-Corporeal Shock Wave Therapy
+795,Reserved extra-corporeal shock wave therapy,Extra-Corporeal Shock Wave Therapy
+796,Reserved extra-corporeal shock wave therapy,Extra-Corporeal Shock Wave Therapy
+797,Reserved extra-corporeal shock wave therapy,Extra-Corporeal Shock Wave Therapy
+798,Reserved extra-corporeal shock wave therapy,Extra-Corporeal Shock Wave Therapy
+799,Reserved extra-corporeal shock wave therapy,Extra-Corporeal Shock Wave Therapy
+811,"Acquisition of body components, living donor",Acquisition of Body Components / Donor Services
+812,"Acquisition of body components, cadaver donor",Acquisition of Body Components / Donor Services
+813,"Acquisition of body components, unknown donor",Acquisition of Body Components / Donor Services
+814,"Acquisition of body components unsuccessful organ search, donor bank charges",Acquisition of Body Components / Donor Services
+819,"Acquisition of body components unsuccessful organ search, donor bank charges",Acquisition of Body Components / Donor Services
+820,"Hemodialysis, outpatient or home general",Hemodialysis
+821,"Hemodialysis, composite or rate",Hemodialysis
+829,Hemodialysis,Hemodialysis
+831,"Peritoneal dialysis, outpatient or home composite or rate",Peritoneal Dialysis
+851,"Continuous cycling peritoneal dialysis, outpatient or home composite or rate",Continuous Cycling Peritoneal Dialysis
+880,"Dialysis, miscellaneous",Dialysis Miscellaneous
+900,"Behavioral health treatment services, general",Behavioral Health Treatment
+901,"Behavioral health treatment services, electroshock",Behavioral Health Treatment
+902,"Behavioral health treatment services, milieu therapy",Behavioral Health Treatment
+903,"Behavioral health treatment services, play therapy",Behavioral Health Treatment
+904,"Behavioral health treatment services, activity Therapy",Behavioral Health Treatment
+905,"Behavioral health treatment services, intensive outpatient psychiatric",Behavioral Health Treatment
+906,"Behavioral health treatment services, intensive outpatient chemical dependency",Behavioral Health Treatment
+907,"Behavioral health treatment services, community behavioral health program",Behavioral Health Treatment
+908,Reserved behavioral health treatment services,Behavioral Health Treatment
+909,Reserved behavioral health treatment services,Behavioral Health Treatment
+910,"Reserved behavioral health treatment services, 090X extension",Behavioral Health Treatment
+911,"Behavioral health treatment services, 090X extension: rehabilitation",Behavioral Health Treatment
+912,"Behavioral health treatment services, 090X extension: partial hospitalization, less intensive",Behavioral Health Treatment
+913,"Behavioral health treatment services, 090X extension: partial hospitalization, intensive",Behavioral Health Treatment
+914,"Behavioral health treatment services, 090X extension: individual therapy",Behavioral Health Treatment
+915,"Behavioral health treatment, services 090X extension: group therapy",Behavioral Health Treatment
+916,"Behavioral health treatment, services 090X extension: family therapy",Behavioral Health Treatment
+917,"Behavioral health treatment, services 090X extension: bio feedback",Behavioral Health Treatment
+918,"Behavioral health treatment, services 090X extension: testing",Behavioral Health Treatment
+919,"Behavioral health treatment, services 090X extension:",Behavioral Health Treatment
+920,"diagnostic services, general",Diagnostic Services
+921,"diagnostic services, peripheral vascular laboratory",Diagnostic Services
+922,"diagnostic services, electromyelgram",Diagnostic Services
+923,"diagnostic services, pap smear",Diagnostic Services
+924,"diagnostic services, allergy test",Diagnostic Services
+925,"diagnostic services, pregnancy test",Diagnostic Services
+926,"Reserved , diagnostic services",Diagnostic Services
+927,"Reserved , diagnostic services",Diagnostic Services
+928,"Reserved , diagnostic services",Diagnostic Services
+929,"diagnostic services,",Diagnostic Services
+940,"therapeutic services, general",Therapeutic Services
+941,"therapeutic services, recreational therapy",Therapeutic Services
+942,"Education, training",Therapeutic Services
+943,Cardiac rehabilitation,Therapeutic Services
+944,"therapeutic services, drug rehabilitation",Therapeutic Services
+945,"therapeutic services, alcohol rehabilitation",Therapeutic Services
+946,"therapeutic services, complex medical equipment – routine",Therapeutic Services
+947,"therapeutic services, complex medical equipment, ancillary",Therapeutic Services
+948,Pulmonary rehabilitation,Therapeutic Services
+949,"therapeutic services,",Therapeutic Services
+950,"Reserved therapeutic services, 094X extension:",Therapeutic Services
+951,"therapeutic services, 094X extension: athletic training",Therapeutic Services
+952,"therapeutic services, 094X extension: kinesiapy",Therapeutic Services
+953,"Reserved therapeutic services, extension of 094X",Therapeutic Services
+954,"Reserved therapeutic services, extension of 094X",Therapeutic Services
+955,"Reserved therapeutic services, extension of 094X",Therapeutic Services
+956,"Reserved therapeutic services, extension of 094X",Therapeutic Services
+957,"Reserved , therapeutic services, extension of 094X",Therapeutic Services
+958,"Reserved , therapeutic services, extension of 094X",Therapeutic Services
+959,"Reserved , therapeutic services, extension of 094X",Therapeutic Services
+960,Professional fee,Professional Fees
+961,"Professional fee, psychology",Professional Fees
+962,"Professional fee, eye",Professional Fees
+963,"Professional fee, anesthesiologist Medical Doctor",Professional Fees
+964,"Professional fee, anesthesiologist, certified registered nurse anesthetist (CRNA)",Professional Fees
+969,Professional fee,Professional Fees
+971,"Professional fee, laboratory",Professional Fees
+972,"Professional fee, radiology, diagnostic",Professional Fees
+975,"Professional fee, operating room",Professional Fees
+981,"Professional fee, emergency room",Professional Fees
+982,"Professional fee, outpatient",Professional Fees
+983,"Professional fee, clinic",Professional Fees
+984,"Professional fee, social services",Professional Fees
+985,"Professional fee, electrocardiogram (EKG)",Professional Fees
+986,"Professional fee, electroencephalography (EEG)",Professional Fees
+987,"Professional fee, house visit",Professional Fees
+988,"Professional fee, consultation",Professional Fees
+989,Professional Fees – Private Duty Nurse,Professional Fees
+990,Patient Convenience Items – General Classification,Patient Convenience Items
+991,Patient Convenience Items – Cafeteria/Guest Tray,Patient Convenience Items
+992,Patient Convenience Items – Private Linen Service,Patient Convenience Items
+993,Patient Convenience Items – Telephone/Telecom,Patient Convenience Items
+994,Patient Convenience Items – TV/Radio,Patient Convenience Items
+995,Patient Convenience Items – Non-patient Room Rentals,Patient Convenience Items
+996,Patient Convenience Items – Late Discharge,Patient Convenience Items
+997,Patient Convenience Items – Admission Kits,Patient Convenience Items
+998,Patient Convenience Items – Beauty Shop/Barber,Patient Convenience Items
+999,Patient Convenience Items – Other,Patient Convenience Items
+1000,Behavioral Health Accommodations – General Classification,Behavioral Health Accommodations
+1001,Behavioral Health Accommodations – Residential – Psychiatric,Behavioral Health Accommodations
+1002,Behavioral Health Accommodations – Residential – Chemical Dependency,Behavioral Health Accommodations
+1003,Behavioral Health Accommodations – Supervised Living,Behavioral Health Accommodations
+1004,Behavioral Health Accommodations – Halfway House,Behavioral Health Accommodations
+1005,Behavioral Health Accommodations – Group Home,Behavioral Health Accommodations
+1006,Behavioral Health Accomodations – Outdoor Wilderness Behavioral Health (Effective 7/1/17),Behavioral Health Accommodations
+2101,Alternative Therapy Services – Acupuncture,Alternative Therapy Services
+2102,Alternative Therapy Services – Acupressure,Alternative Therapy Services
+2103,Alternative Therapy Services – Massage,Alternative Therapy Services
+2104,Alternative Therapy Services – Reflexology,Alternative Therapy Services
+2105,Alternative Therapy Services – Biofeedback,Alternative Therapy Services
+2106,Alternative Therapy Services – Hypnosis,Alternative Therapy Services
+2109,Alternative Therapy Services – Other,Alternative Therapy Services
+3101,"Adult Care – Adult Day Care, Medical and Social – Hourly",Adult Care Services
+3102,"Adult Care – Adult Day Care, Social – Hourly",Adult Care Services
+3103,"Adult Care – Adult Day Care, Medical and Social – Daily",Adult Care Services
+3104,"Adult Care – Adult Day Care, Social – Daily",Adult Care Services
+3105,Adult Care – Adult Foster Care – Daily,Adult Care Services
+3109,Adult Care – Other,Adult Care Services
