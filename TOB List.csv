@@ -1,0 +1,390 @@
+﻿TOB Codes,Description,Category
+111,Hospital Inpatient admit through discharge(Including Medicare Part A) (Bill type 111),Common TOB codes
+112,Hospital Inpatient  interim (Including Medicare Part A),Common TOB codes
+113,Hospital Inpatient  interim (Including Medicare Part A)- continuing claims,Common TOB codes
+114,Hospital Inpatient  interim (Including Medicare Part A) – last claim,Common TOB codes
+115,Hospital Inpatient  late charge only(Including Medicare Part A),Common TOB codes
+117,Hospital Inpatient replacement of prior claim  (Including Medicare Part A) (Bill type 117),Common TOB codes
+118,Hospital Inpatient void/cancel of a prior claim (Including Medicare Part A) ,Common TOB codes
+119,Hospital Inpatient  final claim for a home (Including Medicare Part A),Common TOB codes
+121,Hospital Inpatient  admit through discharge (Medicare Part B Only) (121 type of bill),Common TOB codes
+122,Hospital Inpatient  interim (Medicare Part B Only),Common TOB codes
+123,Hospital Inpatient  interim – continuing claims (Medicare Part B Only),Common TOB codes
+124,Hospital Inpatient  interim – last claim (Medicare Part B Only),Common TOB codes
+125,Hospital Inpatient  late charge only (Medicare Part B Only),Common TOB codes
+127,Hospital Inpatient  replacement of prior claim (Medicare Part B Only),Common TOB codes
+128,Hospital Inpatient void/cancel of a prior claim (Medicare Part B Only) ,Common TOB codes
+129,Hospital Inpatient  final claim for a home (Medicare Part B Only),Common TOB codes
+131,Hospital Outpatient admit through discharge (131 Type of Bill),Common TOB codes
+132,Hospital Outpatient interim – ,Common TOB codes
+133,Hospital Outpatient interim – continuing claims,Common TOB codes
+134,Hospital Outpatient interim – last claim,Common TOB codes
+135,"Hospital Outpatient late charge only. (type of bill 135, tob 135 in medical billing)",Common TOB codes
+Bill type 137,Hospital Outpatient replacement of prior claim (type of bill 137),Common TOB codes
+138,Hospital Outpatient void/cancel of a prior claim,Common TOB codes
+139,Hospital Outpatient final claim for a home,Common TOB codes
+141,Hospital Other (for hospital referenced diagnostic services or home health not under a plan of treatment) admit through discharge. (Bill type 141),Common TOB codes
+142,Hospital Other (for hospital referenced diagnostic services or home health not under a plan of treatment) interim – ,Common TOB codes
+143,Hospital Other (for hospital referenced diagnostic services or home health not under a plan of treatment) interim – continuing claims,Common TOB codes
+144,Hospital Other (for hospital referenced diagnostic services or home health not under a plan of treatment) interim – last claim,Common TOB codes
+145,Hospital Other (for hospital referenced diagnostic services or home health not under a plan of treatment) late charge only,Common TOB codes
+147,Hospital Other (for hospital referenced diagnostic services or home health not under a plan of treatment) replacement of prior claim (Tob 147),Common TOB codes
+148,Hospital Other (for hospital referenced diagnostic services or home health not under a plan of treatment) void/cancel of a prior claim,Common TOB codes
+149,Hospital Other (for hospital referenced diagnostic services or home health not under a plan of treatment) final claim for a home,Common TOB codes
+151,Hospital Nursing Facility Level I admit through discharge,Common TOB codes
+152,Hospital Nursing Facility Level I interim – ,Common TOB codes
+153,Hospital Nursing Facility Level I interim – continuing claims,Common TOB codes
+154,Hospital Nursing Facility Level I interim – last claim,Common TOB codes
+155,Hospital Nursing Facility Level I late charge only,Common TOB codes
+157,Hospital Nursing Facility Level I replacement of prior claim,Common TOB codes
+158,Hospital Nursing Facility Level I void/cancel of a prior claim,Common TOB codes
+159,Hospital Nursing Facility Level I final claim for a home,Common TOB codes
+161,Hospital Nursing Facility Level II admit through discharge,Common TOB codes
+162,Hospital Nursing Facility Level II interim – ,Common TOB codes
+163,Hospital Nursing Facility Level II interim – continuing claims,Common TOB codes
+164,Hospital Nursing Facility Level II interim – last claim,Common TOB codes
+165,Hospital Nursing Facility Level II late charge only,Common TOB codes
+167,Hospital Nursing Facility Level II replacement of prior claim,Common TOB codes
+168,Hospital Nursing Facility Level II void/cancel of a prior claim,Common TOB codes
+169,Hospital Nursing Facility Level II final claim for a home,Common TOB codes
+171,Hospital Intermediate Care – Level III Nursing Facility admit through discharge,Common TOB codes
+172,Hospital Intermediate Care – Level III Nursing Facility interim – ,Common TOB codes
+173,Hospital Intermediate Care – Level III Nursing Facility interim – continuing claims,Common TOB codes
+174,Hospital Intermediate Care – Level III Nursing Facility interim – last claim,Common TOB codes
+175,Hospital Intermediate Care – Level III Nursing Facility late charge only,Common TOB codes
+177,Hospital Intermediate Care – Level III Nursing Facility replacement of prior claim,Common TOB codes
+178,Hospital Intermediate Care – Level III Nursing Facility void/cancel of a prior claim,Common TOB codes
+179,Hospital Intermediate Care – Level III Nursing Facility final claim for a home,Common TOB codes
+181,Hospital Swing Beds admit through discharge,Common TOB codes
+182,Hospital Swing Beds interim – ,Common TOB codes
+183,Hospital Swing Beds interim – continuing claims,Common TOB codes
+184,Hospital Swing Beds interim – last claim,Common TOB codes
+185,Hospital Swing Beds late charge only,Common TOB codes
+187,Hospital Swing Beds replacement of prior claim,Common TOB codes
+188,Hospital Swing Beds void/cancel of a prior claim,Common TOB codes
+189,Hospital Swing Beds final claim for a home,Common TOB codes
+211,Skilled Nursing Inpatient admit through discharge  (Including Medicare Part A) ,Common TOB codes
+212,Skilled Nursing Inpatient  interim – (Including Medicare Part A),Common TOB codes
+213,Skilled Nursing Inpatient  interim – continuing claims (Including Medicare Part A),Common TOB codes
+214,Skilled Nursing Inpatient interim – last claim  (Including Medicare Part A),Common TOB codes
+215,Skilled Nursing Inpatient  late charge only (Including Medicare Part A),Common TOB codes
+217,Skilled Nursing Inpatient  replacement of prior claim (Including Medicare Part A),Common TOB codes
+218,Skilled Nursing Inpatient  void/cancel of a prior claim (Including Medicare Part A),Common TOB codes
+219,Skilled Nursing Inpatient  final claim for a home (Including Medicare Part A),Common TOB codes
+Bill type 221,Skilled Nursing Inpatient  admit through discharge (Medicare Part B Only),Common TOB codes
+222,Skilled Nursing Inpatient  interim –  (Medicare Part B Only),Common TOB codes
+223,Skilled Nursing Inpatient  interim – continuing claims (Medicare Part B Only),Common TOB codes
+224,Skilled Nursing Inpatient  interim – last claim (Medicare Part B Only),Common TOB codes
+225,Skilled Nursing Inpatient  late charge only (Medicare Part B Only),Common TOB codes
+227,Skilled Nursing Inpatient (Medicare Part B Only) replacement of prior claim,Common TOB codes
+228,Skilled Nursing Inpatient (Medicare Part B Only) void/cancel of a prior claim,Common TOB codes
+229,Skilled Nursing Inpatient (Medicare Part B Only) final claim for a home,Common TOB codes
+231,Skilled Nursing Outpatient admit through discharge,Common TOB codes
+232,Skilled Nursing Outpatient interim – ,Common TOB codes
+233,Skilled Nursing Outpatient interim – continuing claims,Common TOB codes
+234,Skilled Nursing Outpatient interim – last claim,Common TOB codes
+235,Skilled Nursing Outpatient late charge only,Common TOB codes
+237,Skilled Nursing Outpatient replacement of prior claim,Common TOB codes
+238,Skilled Nursing Outpatient void/cancel of a prior claim,Common TOB codes
+239,Skilled Nursing Outpatient final claim for a home,Common TOB codes
+241,Skilled Nursing Other (for hospital referenced diagnostic services or home health not under a plan of treatment) admit through discharge,Common TOB codes
+242,Skilled Nursing Other (for hospital referenced diagnostic services or home health not under a plan of treatment) interim – ,Common TOB codes
+243,Skilled Nursing Other (for hospital referenced diagnostic services or home health not under a plan of treatment) interim – continuing claims,Common TOB codes
+244,Skilled Nursing Other (for hospital referenced diagnostic services or home health not under a plan of treatment) interim – last claim,Common TOB codes
+245,Skilled Nursing Other (for hospital referenced diagnostic services or home health not under a plan of treatment) late charge only,Common TOB codes
+247,Skilled Nursing Other (for hospital referenced diagnostic services or home health not under a plan of treatment) replacement of prior claim,Common TOB codes
+248,Skilled Nursing Other (for hospital referenced diagnostic services or home health not under a plan of treatment) void/cancel of a prior claim,Common TOB codes
+249,Skilled Nursing Other (for hospital referenced diagnostic services or home health not under a plan of treatment) final claim for a home,Common TOB codes
+251,Skilled Nursing Nursing Facility Level I admit through discharge,Common TOB codes
+252,Skilled Nursing Nursing Facility Level I interim – ,Common TOB codes
+253,Skilled Nursing Nursing Facility Level I interim – continuing claims,Common TOB codes
+254,Skilled Nursing Nursing Facility Level I interim – last claim,Common TOB codes
+255,Skilled Nursing Nursing Facility Level I late charge only,Common TOB codes
+257,Skilled Nursing Nursing Facility Level I replacement of prior claim,Common TOB codes
+258,Skilled Nursing Nursing Facility Level I void/cancel of a prior claim,Common TOB codes
+259,Skilled Nursing Nursing Facility Level I final claim for a home,Common TOB codes
+261,Skilled Nursing Nursing Facility Level II admit through discharge,Common TOB codes
+262,Skilled Nursing Nursing Facility Level II interim – ,Common TOB codes
+263,Skilled Nursing Nursing Facility Level II interim – continuing claims,Common TOB codes
+264,Skilled Nursing Nursing Facility Level II interim – last claim,Common TOB codes
+265,Skilled Nursing Nursing Facility Level II late charge only,Common TOB codes
+267,Skilled Nursing Nursing Facility Level II replacement of prior claim,Common TOB codes
+268,Skilled Nursing Nursing Facility Level II void/cancel of a prior claim,Common TOB codes
+269,Skilled Nursing Nursing Facility Level II final claim for a home,Common TOB codes
+271,Skilled Nursing Intermediate Care – Level III Nursing Facility admit through discharge,Common TOB codes
+272,Skilled Nursing Intermediate Care – Level III Nursing Facility interim – ,Common TOB codes
+273,Skilled Nursing Intermediate Care – Level III Nursing Facility interim – continuing claims,Common TOB codes
+274,Skilled Nursing Intermediate Care – Level III Nursing Facility interim – last claim,Common TOB codes
+275,Skilled Nursing Intermediate Care – Level III Nursing Facility late charge only,Common TOB codes
+277,Skilled Nursing Intermediate Care – Level III Nursing Facility replacement of prior claim,Common TOB codes
+278,Skilled Nursing Intermediate Care – Level III Nursing Facility void/cancel of a prior claim,Common TOB codes
+279,Skilled Nursing Intermediate Care – Level III Nursing Facility final claim for a home,Common TOB codes
+281,Skilled Nursing Swing Beds admit through discharge,Common TOB codes
+282,Skilled Nursing Swing Beds interim – ,Common TOB codes
+283,Skilled Nursing Swing Beds interim – continuing claims,Common TOB codes
+284,Skilled Nursing Swing Beds interim – last claim,Common TOB codes
+285,Skilled Nursing Swing Beds late charge only,Common TOB codes
+287,Skilled Nursing Swing Beds replacement of prior claim,Common TOB codes
+288,Skilled Nursing Swing Beds void/cancel of a prior claim,Common TOB codes
+289,Skilled Nursing Swing Beds final claim for a home,Common TOB codes
+311,Home Health Inpatient (Including Medicare Part A) admit through discharge,Common TOB codes
+312,Home Health Inpatient (Including Medicare Part A) interim – ,Common TOB codes
+313,Home Health Inpatient (Including Medicare Part A) interim – continuing claims,Common TOB codes
+314,Home Health Inpatient (Including Medicare Part A) interim – last claim,Common TOB codes
+315,Home Health Inpatient (Including Medicare Part A) late charge only,Common TOB codes
+317,Home Health Inpatient (Including Medicare Part A) replacement of prior claim,Common TOB codes
+318,Home Health Inpatient (Including Medicare Part A) void/cancel of a prior claim,Common TOB codes
+319,Home Health Inpatient (Including Medicare Part A) final claim for a home,Common TOB codes
+321,Home Health Inpatient (Medicare Part B Only) admit through discharge,Common TOB codes
+322,Home Health Inpatient (Medicare Part B Only) interim – ,Common TOB codes
+323,Home Health Inpatient (Medicare Part B Only) interim – continuing claims,Common TOB codes
+324,Home Health Inpatient (Medicare Part B Only) interim – last claim,Common TOB codes
+325,Home Health Inpatient (Medicare Part B Only) late charge only,Common TOB codes
+327,Home Health Inpatient (Medicare Part B Only) replacement of prior claim,Common TOB codes
+328,Home Health Inpatient (Medicare Part B Only) void/cancel of a prior claim,Common TOB codes
+329,Home Health Inpatient (Medicare Part B Only) final claim for a home,Common TOB codes
+331,Home Health Outpatient admit through discharge,Common TOB codes
+332,Home Health Outpatient interim – ,Common TOB codes
+333,Home Health Outpatient interim – continuing claims,Common TOB codes
+334,Home Health Outpatient interim – last claim,Common TOB codes
+335,Home Health Outpatient late charge only,Common TOB codes
+337,Home Health Outpatient replacement of prior claim,Common TOB codes
+338,Home Health Outpatient void/cancel of a prior claim,Common TOB codes
+339,Home Health Outpatient final claim for a home,Common TOB codes
+341,Home Health Other (for hospital referenced diagnostic services or home health not under a plan of treatment) admit through discharge,Common TOB codes
+342,Home Health Other (for hospital referenced diagnostic services or home health not under a plan of treatment) interim – ,Common TOB codes
+343,Home Health Other (for hospital referenced diagnostic services or home health not under a plan of treatment) interim – continuing claims,Common TOB codes
+344,Home Health Other (for hospital referenced diagnostic services or home health not under a plan of treatment) interim – last claim,Common TOB codes
+345,Home Health Other (for hospital referenced diagnostic services or home health not under a plan of treatment) late charge only,Common TOB codes
+347,Home Health Other (for hospital referenced diagnostic services or home health not under a plan of treatment) replacement of prior claim,Common TOB codes
+348,Home Health Other (for hospital referenced diagnostic services or home health not under a plan of treatment) void/cancel of a prior claim,Common TOB codes
+349,Home Health Other (for hospital referenced diagnostic services or home health not under a plan of treatment) final claim for a home,Common TOB codes
+351,Home Health Nursing Facility Level I admit through discharge,Common TOB codes
+352,Home Health Nursing Facility Level I interim – ,Common TOB codes
+353,Home Health Nursing Facility Level I interim – continuing claims,Common TOB codes
+354,Home Health Nursing Facility Level I interim – last claim,Common TOB codes
+355,Home Health Nursing Facility Level I late charge only,Common TOB codes
+357,Home Health Nursing Facility Level I replacement of prior claim,Common TOB codes
+358,Home Health Nursing Facility Level I void/cancel of a prior claim,Common TOB codes
+359,Home Health Nursing Facility Level I final claim for a home,Common TOB codes
+361,Home Health Nursing Facility Level II admit through discharge,Common TOB codes
+362,Home Health Nursing Facility Level II interim – ,Common TOB codes
+363,Home Health Nursing Facility Level II interim – continuing claims,Common TOB codes
+364,Home Health Nursing Facility Level II interim – last claim,Common TOB codes
+365,Home Health Nursing Facility Level II late charge only,Common TOB codes
+367,Home Health Nursing Facility Level II replacement of prior claim,Common TOB codes
+368,Home Health Nursing Facility Level II void/cancel of a prior claim,Common TOB codes
+369,Home Health Nursing Facility Level II final claim for a home,Common TOB codes
+371,Home Health Intermediate Care – Level III Nursing Facility admit through discharge,Common TOB codes
+372,Home Health Intermediate Care – Level III Nursing Facility interim – ,Common TOB codes
+373,Home Health Intermediate Care – Level III Nursing Facility interim – continuing claims,Common TOB codes
+374,Home Health Intermediate Care – Level III Nursing Facility interim – last claim,Common TOB codes
+375,Home Health Intermediate Care – Level III Nursing Facility late charge only,Common TOB codes
+377,Home Health Intermediate Care – Level III Nursing Facility replacement of prior claim,Common TOB codes
+378,Home Health Intermediate Care – Level III Nursing Facility void/cancel of a prior claim,Common TOB codes
+379,Home Health Intermediate Care – Level III Nursing Facility final claim for a home,Common TOB codes
+381,Home Health Swing Beds admit through discharge,Common TOB codes
+382,Home Health Swing Beds interim – ,Common TOB codes
+383,Home Health Swing Beds interim – continuing claims,Common TOB codes
+384,Home Health Swing Beds interim – last claim,Common TOB codes
+385,Home Health Swing Beds late charge only,Common TOB codes
+387,Home Health Swing Beds replacement of prior claim,Common TOB codes
+388,Home Health Swing Beds void/cancel of a prior claim,Common TOB codes
+389,Home Health Swing Beds final claim for a home,Common TOB codes
+411,Christian Science Hospital Inpatient (Including Medicare Part A) admit through discharge,Common TOB codes
+412,Christian Science Hospital Inpatient (Including Medicare Part A) interim – ,Common TOB codes
+413,Christian Science Hospital Inpatient (Including Medicare Part A) interim – continuing claims,Common TOB codes
+414,Christian Science Hospital Inpatient (Including Medicare Part A) interim – last claim,Common TOB codes
+415,Christian Science Hospital Inpatient (Including Medicare Part A) late charge only,Common TOB codes
+417,Christian Science Hospital Inpatient (Including Medicare Part A) replacement of prior claim,Common TOB codes
+418,Christian Science Hospital Inpatient (Including Medicare Part A) void/cancel of a prior claim,Common TOB codes
+419,Christian Science Hospital Inpatient (Including Medicare Part A) final claim for a home,Common TOB codes
+421,Christian Science Hospital Inpatient (Medicare Part B Only) admit through discharge,Common TOB codes
+422,Christian Science Hospital Inpatient (Medicare Part B Only) interim – ,Common TOB codes
+423,Christian Science Hospital Inpatient (Medicare Part B Only) interim – continuing claims,Common TOB codes
+424,Christian Science Hospital Inpatient (Medicare Part B Only) interim – last claim,Common TOB codes
+425,Christian Science Hospital Inpatient (Medicare Part B Only) late charge only,Common TOB codes
+427,Christian Science Hospital Inpatient (Medicare Part B Only) replacement of prior claim,Common TOB codes
+428,Christian Science Hospital Inpatient (Medicare Part B Only) void/cancel of a prior claim,Common TOB codes
+429,Christian Science Hospital Inpatient (Medicare Part B Only) final claim for a home,Common TOB codes
+431,Christian Science Hospital Outpatient admit through discharge,Common TOB codes
+432,Christian Science Hospital Outpatient interim – ,Common TOB codes
+433,Christian Science Hospital Outpatient interim – continuing claims,Common TOB codes
+434,Christian Science Hospital Outpatient interim – last claim,Common TOB codes
+435,Christian Science Hospital Outpatient late charge only,Common TOB codes
+437,Christian Science Hospital Outpatient replacement of prior claim,Common TOB codes
+438,Christian Science Hospital Outpatient void/cancel of a prior claim,Common TOB codes
+439,Christian Science Hospital Outpatient final claim for a home,Common TOB codes
+441,Christian Science Hospital Other (for hospital referenced diagnostic services or home health not under a plan of treatment) admit through discharge,Common TOB codes
+442,Christian Science Hospital Other (for hospital referenced diagnostic services or home health not under a plan of treatment) interim – ,Common TOB codes
+443,Christian Science Hospital Other (for hospital referenced diagnostic services or home health not under a plan of treatment) interim – continuing claims,Common TOB codes
+444,Christian Science Hospital Other (for hospital referenced diagnostic services or home health not under a plan of treatment) interim – last claim,Common TOB codes
+445,Christian Science Hospital Other (for hospital referenced diagnostic services or home health not under a plan of treatment) late charge only,Common TOB codes
+447,Christian Science Hospital Other (for hospital referenced diagnostic services or home health not under a plan of treatment) replacement of prior claim,Common TOB codes
+448,Christian Science Hospital Other (for hospital referenced diagnostic services or home health not under a plan of treatment) void/cancel of a prior claim,Common TOB codes
+449,Christian Science Hospital Other (for hospital referenced diagnostic services or home health not under a plan of treatment) final claim for a home,Common TOB codes
+451,Christian Science Hospital Nursing Facility Level I admit through discharge,Common TOB codes
+452,Christian Science Hospital Nursing Facility Level I interim – ,Common TOB codes
+453,Christian Science Hospital Nursing Facility Level I interim – continuing claims,Common TOB codes
+454,Christian Science Hospital Nursing Facility Level I interim – last claim,Common TOB codes
+455,Christian Science Hospital Nursing Facility Level I late charge only,Common TOB codes
+457,Christian Science Hospital Nursing Facility Level I replacement of prior claim,Common TOB codes
+458,Christian Science Hospital Nursing Facility Level I void/cancel of a prior claim,Common TOB codes
+459,Christian Science Hospital Nursing Facility Level I final claim for a home,Common TOB codes
+461,Christian Science Hospital Nursing Facility Level II admit through discharge,Common TOB codes
+462,Christian Science Hospital Nursing Facility Level II interim – ,Common TOB codes
+463,Christian Science Hospital Nursing Facility Level II interim – continuing claims,Common TOB codes
+464,Christian Science Hospital Nursing Facility Level II interim – last claim,Common TOB codes
+465,Christian Science Hospital Nursing Facility Level II late charge only,Common TOB codes
+467,Christian Science Hospital Nursing Facility Level II replacement of prior claim,Common TOB codes
+468,Christian Science Hospital Nursing Facility Level II void/cancel of a prior claim,Common TOB codes
+469,Christian Science Hospital Nursing Facility Level II final claim for a home,Common TOB codes
+471,Christian Science Hospital Intermediate Care – Level III Nursing Facility admit through discharge,Common TOB codes
+472,Christian Science Hospital Intermediate Care – Level III Nursing Facility interim – ,Common TOB codes
+473,Christian Science Hospital Intermediate Care – Level III Nursing Facility interim – continuing claims,Common TOB codes
+474,Christian Science Hospital Intermediate Care – Level III Nursing Facility interim – last claim,Common TOB codes
+475,Christian Science Hospital Intermediate Care – Level III Nursing Facility late charge only,Common TOB codes
+477,Christian Science Hospital Intermediate Care – Level III Nursing Facility replacement of prior claim,Common TOB codes
+478,Christian Science Hospital Intermediate Care – Level III Nursing Facility void/cancel of a prior claim,Common TOB codes
+479,Christian Science Hospital Intermediate Care – Level III Nursing Facility final claim for a home,Common TOB codes
+481,Christian Science Hospital Swing Beds admit through discharge,Common TOB codes
+482,Christian Science Hospital Swing Beds interim – ,Common TOB codes
+483,Christian Science Hospital Swing Beds interim – continuing claims,Common TOB codes
+484,Christian Science Hospital Swing Beds interim – last claim,Common TOB codes
+485,Christian Science Hospital Swing Beds late charge only,Common TOB codes
+487,Christian Science Hospital Swing Beds replacement of prior claim,Common TOB codes
+488,Christian Science Hospital Swing Beds void/cancel of a prior claim,Common TOB codes
+489,Christian Science Hospital Swing Beds final claim for a home,Common TOB codes
+511,Christian Science Extended Care Inpatient (Including Medicare Part A) admit through discharge,Common TOB codes
+512,Christian Science Extended Care Inpatient (Including Medicare Part A) interim – ,Common TOB codes
+513,Christian Science Extended Care Inpatient (Including Medicare Part A) interim – continuing claims,Common TOB codes
+514,Christian Science Extended Care Inpatient (Including Medicare Part A) interim – last claim,Common TOB codes
+515,Christian Science Extended Care Inpatient (Including Medicare Part A) late charge only,Common TOB codes
+517,Christian Science Extended Care Inpatient (Including Medicare Part A) replacement of prior claim,Common TOB codes
+518,Christian Science Extended Care Inpatient (Including Medicare Part A) void/cancel of a prior claim,Common TOB codes
+519,Christian Science Extended Care Inpatient (Including Medicare Part A) final claim for a home,Common TOB codes
+521,Christian Science Extended Care Inpatient (Medicare Part B Only) admit through discharge,Common TOB codes
+522,Christian Science Extended Care Inpatient (Medicare Part B Only) interim – ,Common TOB codes
+523,Christian Science Extended Care Inpatient (Medicare Part B Only) interim – continuing claims,Common TOB codes
+524,Christian Science Extended Care Inpatient (Medicare Part B Only) interim – last claim,Common TOB codes
+525,Christian Science Extended Care Inpatient (Medicare Part B Only) late charge only,Common TOB codes
+527,Christian Science Extended Care Inpatient (Medicare Part B Only) replacement of prior claim,Common TOB codes
+528,Christian Science Extended Care Inpatient (Medicare Part B Only) void/cancel of a prior claim,Common TOB codes
+529,Christian Science Extended Care Inpatient (Medicare Part B Only) final claim for a home,Common TOB codes
+531,Christian Science Extended Care Outpatient admit through discharge,Common TOB codes
+532,Christian Science Extended Care Outpatient interim – ,Common TOB codes
+533,Christian Science Extended Care Outpatient interim – continuing claims,Common TOB codes
+534,Christian Science Extended Care Outpatient interim – last claim,Common TOB codes
+535,Christian Science Extended Care Outpatient late charge only,Common TOB codes
+537,Christian Science Extended Care Outpatient replacement of prior claim,Common TOB codes
+538,Christian Science Extended Care Outpatient void/cancel of a prior claim,Common TOB codes
+539,Christian Science Extended Care Outpatient final claim for a home,Common TOB codes
+541,Christian Science Extended Care Other (for hospital referenced diagnostic services or home health not under a plan of treatment) admit through discharge,Common TOB codes
+542,Christian Science Extended Care Other (for hospital referenced diagnostic services or home health not under a plan of treatment) interim – ,Common TOB codes
+543,Christian Science Extended Care Other (for hospital referenced diagnostic services or home health not under a plan of treatment) interim – continuing claims,Common TOB codes
+544,Christian Science Extended Care Other (for hospital referenced diagnostic services or home health not under a plan of treatment) interim – last claim,Common TOB codes
+545,Christian Science Extended Care Other (for hospital referenced diagnostic services or home health not under a plan of treatment) late charge only,Common TOB codes
+547,Christian Science Extended Care Other (for hospital referenced diagnostic services or home health not under a plan of treatment) replacement of prior claim,Common TOB codes
+548,Christian Science Extended Care Other (for hospital referenced diagnostic services or home health not under a plan of treatment) void/cancel of a prior claim,Common TOB codes
+549,Christian Science Extended Care Other (for hospital referenced diagnostic services or home health not under a plan of treatment) final claim for a home,Common TOB codes
+551,Christian Science Extended Care Nursing Facility Level I admit through discharge,Common TOB codes
+552,Christian Science Extended Care Nursing Facility Level I interim – ,Common TOB codes
+553,Christian Science Extended Care Nursing Facility Level I interim – continuing claims,Common TOB codes
+554,Christian Science Extended Care Nursing Facility Level I interim – last claim,Common TOB codes
+555,Christian Science Extended Care Nursing Facility Level I late charge only,Common TOB codes
+557,Christian Science Extended Care Nursing Facility Level I replacement of prior claim,Common TOB codes
+558,Christian Science Extended Care Nursing Facility Level I void/cancel of a prior claim,Common TOB codes
+559,Christian Science Extended Care Nursing Facility Level I final claim for a home,Common TOB codes
+561,Christian Science Extended Care Nursing Facility Level II admit through discharge,Common TOB codes
+562,Christian Science Extended Care Nursing Facility Level II interim – ,Common TOB codes
+563,Christian Science Extended Care Nursing Facility Level II interim – continuing claims,Common TOB codes
+564,Christian Science Extended Care Nursing Facility Level II interim – last claim,Common TOB codes
+565,Christian Science Extended Care Nursing Facility Level II late charge only,Common TOB codes
+567,Christian Science Extended Care Nursing Facility Level II replacement of prior claim,Common TOB codes
+568,Christian Science Extended Care Nursing Facility Level II void/cancel of a prior claim,Common TOB codes
+569,Christian Science Extended Care Nursing Facility Level II final claim for a home,Common TOB codes
+571,Christian Science Extended Care Intermediate Care – Level III Nursing Facility admit through discharge,Common TOB codes
+572,Christian Science Extended Care Intermediate Care – Level III Nursing Facility interim – ,Common TOB codes
+573,Christian Science Extended Care Intermediate Care – Level III Nursing Facility interim – continuing claims,Common TOB codes
+574,Christian Science Extended Care Intermediate Care – Level III Nursing Facility interim – last claim,Common TOB codes
+575,Christian Science Extended Care Intermediate Care – Level III Nursing Facility late charge only,Common TOB codes
+577,Christian Science Extended Care Intermediate Care – Level III Nursing Facility replacement of a prior claim,Common TOB codes
+578,Christian Science Extended Care Intermediate Care – Level III Nursing Facility void/cancel of a prior claim,Common TOB codes
+579,Christian Science Extended Care Intermediate Care – Level III Nursing Facility final claim for a home,Common TOB codes
+581,Christian Science Extended Care Swing Beds admit through discharge,Common TOB codes
+582,Christian Science Extended Care Swing Beds interim – ,Common TOB codes
+583,Christian Science Extended Care Swing Beds interim – continuing claims,Common TOB codes
+584,Christian Science Extended Care Swing Beds interim – last claim,Common TOB codes
+585,Christian Science Extended Care Swing Beds late charge only,Common TOB codes
+587,Christian Science Extended Care Swing Beds replacement of a prior claim,Common TOB codes
+588,Christian Science Extended Care Swing Beds void/cancel of a prior claim,Common TOB codes
+589,Christian Science Extended Care Swing Beds final claim for a home,Common TOB codes
+65X,RELIGIOUS NON-MEDICAL HEALTH CARE INSTITUTIONS – OUTPATIENT SERVICES,INTERMEDIATE CARE – LEVEL I
+66X,RELIGIOUS NON-MEDICAL HEALTH CARE INSTITUTIONS – OUTPATIENT SERVICES,INTERMEDIATE CARE – LEVEL II
+711,CLINIC RURAL HEALTH: ADMIT THROUGH DISCHARGE,CLINIC RURAL HEALTH
+712,"CLINIC RURAL HEALTH: INTERIM, FIRST CLAIM",CLINIC RURAL HEALTH
+713,"CLINIC RURAL HEALTH: INTERIM, CONTINUING CLAIM",CLINIC RURAL HEALTH
+714,"CLINIC RURAL HEALTH: INTERIM, FINAL CLAIM",CLINIC RURAL HEALTH
+715,CLINIC RURAL HEALTH: LATE CHARGE(S) ONLY CLAIM,CLINIC RURAL HEALTH
+717,CLINIC RURAL HEALTH: REPLACEMENT OF PRIOR CLAIM,CLINIC RURAL HEALTH
+717,HOSPITAL BASED OR INDEPENDENT RENAL DIALYSIS: ADMIT THROUGH DISCHARGE,HOSPITAL BASED OR INDEPENDENT RENAL DIALYSIS
+722,"HOSPITAL BASED OR INDEPENDENT RENAL DIALYSIS: INTERIM, CONTINUING CLAIM",HOSPITAL BASED OR INDEPENDENT RENAL DIALYSIS
+725,HOSPITAL BASED OR INDEPENDENT RENAL DIALYSIS: LATE CHARGE(S) ONLY CLAIM,HOSPITAL BASED OR INDEPENDENT RENAL DIALYSIS
+727,HOSPITAL BASED OR INDEPENDENT RENAL DIALYSIS: REPLACEMENT OF PRIOR CLAIM,HOSPITAL BASED OR INDEPENDENT RENAL DIALYSIS
+728,HOSPITAL BASED OR INDEPENDENT RENAL DIALYSIS: VOID/CANCEL OF PRIOR CLAIM,HOSPITAL BASED OR INDEPENDENT RENAL DIALYSIS
+724,"HOSPITAL BASED OR INDEPENDENT RENAL DIALYSIS: INTERIM, FINAL CLAIM",HOSPITAL BASED OR INDEPENDENT RENAL DIALYSIS
+73X,FREE STANDING CLINIC,FREE STANDING CLINIC
+741,CLINIC OUTPATIENT REHABILITATION FACILITY (ORF): ADMIT THROUGH DISCHARGE,CLINIC OUTPATIENT REHABILITATION FACILITY (ORF)
+742,"CLINIC OUTPATIENT REHABILITATION FACILITY (ORF): INTERIM, FIRST CLAIM",CLINIC OUTPATIENT REHABILITATION FACILITY (ORF)
+743,"CLINIC OUTPATIENT REHABILITATION FACILITY (ORF): INTERIM, CONTINUING CLAIM",CLINIC OUTPATIENT REHABILITATION FACILITY (ORF)
+744,"CLINIC OUTPATIENT REHABILITATION FACILITY (ORF): INTERIM, FINAL CLAIM",CLINIC OUTPATIENT REHABILITATION FACILITY (ORF)
+745,CLINIC OUTPATIENT REHABILITATION FACILITY (ORF): LATE CHARGE(S) ONLY,CLINIC OUTPATIENT REHABILITATION FACILITY (ORF)
+747,CLINIC OUTPATIENT REHABILITATION FACILITY (ORF): REPLACEMENT OF PRIOR CLAIM,CLINIC OUTPATIENT REHABILITATION FACILITY (ORF)
+748,CLINIC OUTPATIENT REHABILITATION FACILITY (ORF): VOID/CANCEL OF PRIOR CLAIM,CLINIC OUTPATIENT REHABILITATION FACILITY (ORF)
+751,CLINIC – COMPREHENSIVE OUTPATIENT REHABILITATION FACILITY (CORF): ADMIT THROUGH DISCHARGE,CLINIC – COMPREHENSIVE OUTPATIENT REHABILITATION FACILITY (CORF)
+752,"CLINIC – COMPREHENSIVE OUTPATIENT REHABILITATION FACILITY (CORF): INTERIM, FIRST CLAIM",CLINIC – COMPREHENSIVE OUTPATIENT REHABILITATION FACILITY (CORF)
+753,"CLINIC – COMPREHENSIVE OUTPATIENT REHABILITATION FACILITY (CORF): INTERIM, CONTINUING CLAIM",CLINIC – COMPREHENSIVE OUTPATIENT REHABILITATION FACILITY (CORF)
+754,"CLINIC – COMPREHENSIVE OUTPATIENT REHABILITATION FACILITY (CORF): INTERIM, FINAL CLAIM",CLINIC – COMPREHENSIVE OUTPATIENT REHABILITATION FACILITY (CORF)
+755,CLINIC – COMPREHENSIVE OUTPATIENT REHABILITATION FACILITY (CORF): LATE CHARGE(S) ONLY CLAIM,CLINIC – COMPREHENSIVE OUTPATIENT REHABILITATION FACILITY (CORF)
+757,CLINIC – COMPREHENSIVE OUTPATIENT REHABILITATION FACILITY (CORF): REPLACEMENT OF PRIOR CLAIM,CLINIC – COMPREHENSIVE OUTPATIENT REHABILITATION FACILITY (CORF)
+758,CLINIC – COMPREHENSIVE OUTPATIENT REHABILITATION FACILITY (CORF): VOID/CANCEL OF PRIOR CLAIM,CLINIC – COMPREHENSIVE OUTPATIENT REHABILITATION FACILITY (CORF)
+76X,CLINIC – COMMUNITY MENTAL HEALTH CENTER,CLINIC – COMMUNITY MENTAL HEALTH CENTER
+77X,CLINIC – FEDERALLY QUALIFIED HEALTH CENTER,CLINIC – FEDERALLY QUALIFIED HEALTH CENTER
+78X,LICENSED FREE STANDING EMERGENCY MEDICAL FACILITY,LICENSED FREE STANDING EMERGENCY MEDICAL FACILITY
+79X,CLINIC – OTHER,CLINIC – OTHER
+811,SPECIALTY FACILITY HOSPICE (NON-HOSPITAL BASED): ADMIT THROUGH DISCHARGE,SPECIALTY FACILITY HOSPICE (NON-HOSPITAL BASED)
+812,"SPECIALTY FACILITY HOSPICE (NON-HOSPITAL BASED): INTERIM, FIRST CLAIM",SPECIALTY FACILITY HOSPICE (NON-HOSPITAL BASED)
+813,"SPECIALTY FACILITY HOSPICE (NON-HOSPITAL BASED): INTERIM, CONTINUING CLAIM",SPECIALTY FACILITY HOSPICE (NON-HOSPITAL BASED)
+814,"SPECIALTY FACILITY HOSPICE (NON-HOSPITAL BASED): INTERIM, FINAL CLAIM",SPECIALTY FACILITY HOSPICE (NON-HOSPITAL BASED)
+815,SPECIALTY FACILITY HOSPICE (NON-HOSPITAL BASED): LATE CHARGE(S) ONLY,SPECIALTY FACILITY HOSPICE (NON-HOSPITAL BASED)
+817,SPECIALTY FACILITY HOSPICE (NON-HOSPITAL BASED): REPLACEMENT OF PRIOR CLAIM,SPECIALTY FACILITY HOSPICE (NON-HOSPITAL BASED)
+818,SPECIALTY FACILITY HOSPICE (NON-HOSPITAL BASED): VOID/CANCEL OF PRIOR CLAIM,SPECIALTY FACILITY HOSPICE (NON-HOSPITAL BASED)
+821,SPECIALTY FACILITY HOSPICE (HOSPITAL BASED): ADMIT THROUGH DISCHARGE,SPECIALTY FACILITY HOSPICE (HOSPITAL BASED)
+822,"SPECIALTY FACILITY HOSPICE (HOSPITAL BASED): INTERIM, FIRST CLAIM",SPECIALTY FACILITY HOSPICE (HOSPITAL BASED)
+823,"SPECIALTY FACILITY HOSPICE (HOSPITAL BASED): INTERIM, CONTINUING CLAIM",SPECIALTY FACILITY HOSPICE (HOSPITAL BASED)
+824,"SPECIALTY FACILITY HOSPICE (HOSPITAL BASED): INTERIM, FINAL CLAIM",SPECIALTY FACILITY HOSPICE (HOSPITAL BASED)
+825,SPECIALTY FACILITY HOSPICE (HOSPITAL BASED): LATE CHARGE(S) ONLY,SPECIALTY FACILITY HOSPICE (HOSPITAL BASED)
+827,SPECIALTY FACILITY HOSPICE (HOSPITAL BASED): REPLACEMENT OF PRIOR CLAIM,SPECIALTY FACILITY HOSPICE (HOSPITAL BASED)
+828,SPECIALTY FACILITY HOSPICE (HOSPITAL BASED): VOID/CANCEL OF PRIOR CLAIM,SPECIALTY FACILITY HOSPICE (HOSPITAL BASED)
+831,SPECIALTY FACILITY AMBULATORY SURGERY: ADMIT THROUGH DISCHARGE,SPECIALTY FACILITY AMBULATORY SURGERY
+832,"SPECIALTY FACILITY AMBULATORY SURGERY: INTERIM, FIRST CLAIM",SPECIALTY FACILITY AMBULATORY SURGERY
+833,"SPECIALTY FACILITY AMBULATORY SURGERY: INTERIM, CONTINUING CLAIM",SPECIALTY FACILITY AMBULATORY SURGERY
+834,"SPECIALTY FACILITY AMBULATORY SURGERY: INTERIM, FINAL CLAIM",SPECIALTY FACILITY AMBULATORY SURGERY
+835,SPECIALTY FACILITY AMBULATORY SURGERY: LATE CHARGE(S) ONLY CLAIM,SPECIALTY FACILITY AMBULATORY SURGERY
+837,SPECIALTY FACILITY AMBULATORY SURGERY: REPLACEMENT OF PRIOR CLAIM,SPECIALTY FACILITY AMBULATORY SURGERY
+838,SPECIALTY FACILITY AMBULATORY SURGERY: VOID/CANCEL OF PRIOR CLAIM,SPECIALTY FACILITY AMBULATORY SURGERY
+84X,SPECIALTY FACILITY – FREE STANDING BIRTHING CENTER,SPECIALTY FACILITY – FREE STANDING BIRTHING CENTER – RECLASSIFIED TO OUTPATIENT ONLY
+851,SPECIALTY FACILITY – CRITICAL ACCESS HOSPITAL: ADMIT THROUGH DISCHARGE,SPECIALTY FACILITY – CRITICAL ACCESS HOSPITAL
+852,"SPECIALTY FACILITY – CRITICAL ACCESS HOSPITAL: INTERIM, FIRST CLAIM",SPECIALTY FACILITY – CRITICAL ACCESS HOSPITAL
+853,"SPECIALTY FACILITY – CRITICAL ACCESS HOSPITAL: INTERIM, CONTINUING CLAIM",SPECIALTY FACILITY – CRITICAL ACCESS HOSPITAL
+854,"SPECIALTY FACILITY – CRITICAL ACCESS HOSPITAL: INTERIM, FINAL CLAIM",SPECIALTY FACILITY – CRITICAL ACCESS HOSPITAL
+855,SPECIALTY FACILITY – CRITICAL ACCESS HOSPITAL: LATE CHARGE(S) ONLY CLAIM,SPECIALTY FACILITY – CRITICAL ACCESS HOSPITAL
+857,SPECIALTY FACILITY – CRITICAL ACCESS HOSPITAL: REPLACEMENT OF PRIOR CLAIM,SPECIALTY FACILITY – CRITICAL ACCESS HOSPITAL
+838,SPECIALTY FACILITY – CRITICAL ACCESS HOSPITAL: VOID/CANCEL OF PRIOR CLAIM,SPECIALTY FACILITY – CRITICAL ACCESS HOSPITAL
+86X,SPECIALTY FACILITY – RESIDENTIAL FACILITY,SPECIALTY FACILITY – RESIDENTIAL FACILITY
+89X,SPECIALTY FACILITY – OTHER,SPECIALTY FACILITY – OTHER – RECLASSIFIED TO OUTPATIENT ONLY
+011x,Inpatient acute care,Common TOB codes
+012x,Inpatient psychiatric care,Common TOB codes
+021x,Inpatient rehabilitation care,Common TOB codes
+031x ,Skilled nursing care,Common TOB codes
+051x ,Inpatient hospice care,Common TOB codes
